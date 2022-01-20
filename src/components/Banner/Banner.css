@@ -1,0 +1,23 @@
+.banner {
+  padding-top: 17rem;
+  padding-bottom: 10rem;
+  display: flex;
+  justify-content: center;
+}
+.banner .content {
+  text-align: center;
+  width: 60rem;
+ 
+  margin-left: 300px;
+}
+.banner .content h3 {
+  font-size: 100px;
+  color: black;
+}
+
+.banner .content p {
+  padding: 2rem 0;
+  font-size: 45px;
+  color: grey;
+  
+}
